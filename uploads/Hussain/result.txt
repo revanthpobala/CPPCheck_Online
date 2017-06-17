@@ -1,0 +1,1 @@
+[uploads\Hussain\code.c:3]: (error) Buffer is accessed out of bounds: smallBuffer

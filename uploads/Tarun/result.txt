@@ -1,0 +1,1 @@
+[uploads\Tarun\code.c:4]: (error) Array 'a[10]' accessed at index 10, which is out of bounds.
